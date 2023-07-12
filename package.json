@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "sanitize-html": "^2.11.0",
+    "string-strip-html": "^8.5.0",
+    "strip-html": "^1.0.2",
+    "strip-tags": "^0.1.1",
+    "v-sanitize": "^0.0.12"
+  }
+}
